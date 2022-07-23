@@ -11,8 +11,10 @@
         android:label="fragment_first_page"
         tools:layout="@layout/fragment_first_page" >
         <action
-            android:id="@+id/action_firstPage_to_secondPage2"
-            app:destination="@id/secondPage2" />
+            android:id="@+id/navigateFromFirstPageToSecondPage"
+            app:destination="@id/secondPage2"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim" />
     </fragment>
     <fragment
         android:id="@+id/secondPage2"
@@ -20,7 +22,12 @@
         android:label="fragment_second_page"
         tools:layout="@layout/fragment_second_page" >
         <action
-            android:id="@+id/action_secondPage2_to_firstPage"
-            app:destination="@id/firstPage" />
+            android:id="@+id/navigateFromSecondPageToFirstPage"
+            app:destination="@id/firstPage"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim" />
+        <argument
+            android:name="currentPic"
+            app:argType="com.example.homework12.PicModel" />
     </fragment>
 </navigation>
