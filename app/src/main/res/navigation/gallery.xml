@@ -3,29 +3,22 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/gallery"
-    app:startDestination="@id/firstPage">
+    app:startDestination="@id/firstPageFragment">
 
     <fragment
-        android:id="@+id/firstPage"
-        android:name="com.example.homework12.FirstPage"
+        android:id="@+id/firstPageFragment"
+        android:name="com.example.homework12.FirstPageFragment"
         android:label="fragment_first_page"
         tools:layout="@layout/fragment_first_page" >
         <action
-            android:id="@+id/navigateFromFirstPageToSecondPage"
-            app:destination="@id/secondPage2"
-            app:enterAnim="@anim/nav_default_enter_anim"
-            app:exitAnim="@anim/nav_default_exit_anim" />
+            android:id="@+id/action_firstPageFragment_to_secondPageFragment"
+            app:destination="@id/secondPageFragment" />
     </fragment>
     <fragment
-        android:id="@+id/secondPage2"
-        android:name="com.example.homework12.SecondPage"
+        android:id="@+id/secondPageFragment"
+        android:name="com.example.homework12.SecondPageFragment"
         android:label="fragment_second_page"
         tools:layout="@layout/fragment_second_page" >
-        <action
-            android:id="@+id/navigateFromSecondPageToFirstPage"
-            app:destination="@id/firstPage"
-            app:enterAnim="@anim/nav_default_enter_anim"
-            app:exitAnim="@anim/nav_default_exit_anim" />
         <argument
             android:name="currentPic"
             app:argType="com.example.homework12.PicModel" />
