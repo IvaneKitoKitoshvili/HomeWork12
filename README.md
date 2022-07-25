@@ -1,1 +1,13 @@
 # HomeWork12
+Add Visual COmponents To project :![Pic (10)](https://user-images.githubusercontent.com/98745164/180845155-9185c3b3-0228-4e22-a5de-1615d797d3b8.jpg)
+![Pic (11)](https://user-images.githubusercontent.com/98745164/180845169-c0c1decd-64d7-4c66-9c21-9636c8e29054.jpg)
+![Pic (12)](https://user-images.githubusercontent.com/98745164/180845212-7fc26bf2-28f7-479e-990f-243d491ab243.jpg)
+![Pic (1)](https://user-images.githubusercontent.com/98745164/180845216-96202fb7-0f4c-43e8-b476-cda37e4fcdd5.jpg)
+![Pic (2)](https://user-images.githubusercontent.com/98745164/180845241-5763b1d8-f8ba-4462-9df5-89ff74a78eb1.jpg)
+![Pic (3)](https://user-images.githubusercontent.com/98745164/180845245-239c49b2-b593-4460-8e88-1ef13064acb3.jpg)
+![Pic (4)](https://user-images.githubusercontent.com/98745164/180845250-6c2e2b25-46f4-45c0-b281-5ba5b47fd138.jpg)
+![Pic (5)](https://user-images.githubusercontent.com/98745164/180845253-a70eaa5a-6154-44ad-b565-443678d88dc0.jpg)
+![Pic (6)](https://user-images.githubusercontent.com/98745164/180845257-9fc5e62b-0787-418e-a5ed-d2e5b4d2f149.jpg)
+![Pic (7)](https://user-images.githubusercontent.com/98745164/180845260-346ee271-faea-4183-8d42-1f466f2ee502.jpg)
+![Pic (8)](https://user-images.githubusercontent.com/98745164/180845271-d011891d-76b2-4a67-be15-49ea8b4ab332.jpg)
+![Pic (9)](https://user-images.githubusercontent.com/98745164/180845279-d123568e-b496-4952-9192-de9483078316.jpg)
